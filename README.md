@@ -14,3 +14,7 @@ Kotlin para DEVs Java: Aprenda a Linguagem Padrão do Android - Udemy:
 
 Começando com Android - Crie 6 Apps - Udemy
 [Começando com Android - Crie 6 Apps.pdf](https://github.com/user-attachments/files/19636806/Comecando.com.Android.-.Crie.6.Apps.pdf)
+
+
+React Native : The beginner guide - Udemy
+[React Nativ_The beginner guide.pdf](https://github.com/user-attachments/files/19637597/React.Nativ_The.beginner.guide.pdf)
