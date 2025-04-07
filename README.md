@@ -18,3 +18,7 @@ Começando com Android - Crie 6 Apps - Udemy
 
 React Native : The beginner guide - Udemy
 [React Nativ_The beginner guide.pdf](https://github.com/user-attachments/files/19637597/React.Nativ_The.beginner.guide.pdf)
+
+
+Flutter 2.0: Crie aplicações responsivas para a Web - Udemy
+[Flutter 2.0 Crie aplicações responsivas para a Web.pdf](https://github.com/user-attachments/files/19638618/Flutter.2.0.Crie.aplicacoes.responsivas.para.a.Web.pdf)
